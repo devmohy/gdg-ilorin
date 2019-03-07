@@ -1,0 +1,103 @@
+[
+    {
+        "name":"Yousef Kamaldeen",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/kenkarmah",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"kamal.jpg",
+        "website":""
+    },
+    {
+        "name":"Mohammed Abiola",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/devmohy",
+        "linkedin":"https://www.linkedin.com/in/devmm",
+        "github":"https://github.com/devmohy",
+        "profileImage":"mohy.jpg",
+        "website":""
+    },
+    {
+        "name":"Ibraheem Zulkifli",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/codemonster_",
+        "linkedin":"#",
+        "github":"#",
+        "profileImage":"lekan.jpg",
+        "website":""
+    },
+    {
+        "name":"Olaleye Adeola Grce",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/adeolaleye_",
+        "linkedin":"https://www.linkedin.com/in/adeolaleye",
+        "github":"https://github.com/adeolaleye",
+        "profileImage":"adeola.jpeg",
+        "website":""
+    },
+    {
+        "name":"Ajadi Abiola",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/#",
+        "linkedin":"https://www.linkedin.com/in/#",
+        "github":"https://github.com/#",
+        "profileImage":"ajadi.jpeg",
+        "website":""
+    },
+    {
+        "name":"Olanrewaju Ahmed",
+        "designation":"Assistant organizer",
+        "twitter":"https://twitter.com/ahmzyjazzy",
+        "linkedin":"https://www.linkedin.com/in/ahmzyjazzy",
+        "github":"https://github.com/ahmzyjazzy",
+        "profileImage":"ahmzyjazzy.jpg",
+        "website":""
+    },
+    {
+        "name":"Areous Ahmad",
+        "designation":"Assistant organizer",
+        "twitter":"https://twitter.com/areous",
+        "linkedin":"https://www.linkedin.com/in/Areous",
+        "github":"https://github.com/Areous",
+        "profileImage":"areous.jpeg",
+        "website":""
+    },
+    {
+        "name":"Manzuma Memunat",
+        "designation":"Assistant organizer",
+        "twitter":"https://twitter.com/#",
+        "linkedin":"https://www.linkedin.com/in/#",
+        "github":"https://github.com/#",
+        "profileImage":"manzuma.jpeg",
+        "website":""
+    },
+    {
+        "name":"Cole-Eremoh Solomon",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/thecodeghost",
+        "linkedin":"https://www.linkedin.com/in/thecodeghost",
+        "github":"https://github.com/thecodeghost",
+        "profileImage":"cole.jpeg",
+        "website":""
+    },
+    {
+        "name":"Jekayinoluwa Olabemiwo",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Jamiu Abdulateef",
+        "designation":"Event organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"lascot.jpeg",
+        "website":""
+    }
+    
+   
+]
