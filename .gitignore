@@ -1,5 +1,10 @@
 /node_modules/
+/src/config/
+/dist/
 
 .vscode
+.firebase
+.firebaserc
 
-/src/config/
+firebase-debug.log
+package-lock.json

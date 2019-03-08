@@ -5,14 +5,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura.png">
 
 Standard Web App for GDG Communties. <br>
-[Demo](https://aura-client-master.firebaseapp.com/) <br>
+[Demo](https://gdg-ilorin-d9f0d.firebaseapp.com/) <br>
 Version: 1.0.2
 
 ## Overview
 
 Aura is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
-The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
+The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team experience of running meetups.
 
 ## Features
 | Feature | Description |
@@ -52,7 +52,6 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
    * `firebase deploy` or `npm run deploy` or `yarn deploy`
 
 
-
 ### Run your tests
 1. For Test: `npm run test`
 
@@ -75,7 +74,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 | Community Name | Web App Link | 
 | --- | --- | 
-| GDG Jalandhar | [View Now](https://gdgjalandhar.com) |
+| GDG Ilorin | [View Now](https://gdgilorin.com) |
 
 
 
