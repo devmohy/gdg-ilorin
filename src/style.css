@@ -5,5 +5,9 @@
     src: url(assets/fonts/GoogleSans-Regular.ttf);
 }
 .google-font{
-    font-family: google-sans
+    font-family: google-sans;
+}
+.google-rainbow--line {
+    background-image: linear-gradient(to right, #f76570 0%, #f76570 8%, #f3a46b 8%, #f3a46b 16%, #f3a46b 16%, #ffd205 16%, #ffd205 24%, #ffd205 24%, #1bbc9b 24%, #1bbc9b 25%, #1bbc9b 32%, #14b9d5 32%, #14b9d5 40%, #1a73e8  40%, #1a73e8  48%, #f76570 48%, #f76570 56%, #f3a46b 56%, #f3a46b 64%, #ffd205 64%, #ffd205 72%, #1bbc9b 72%, #1bbc9b 80%, #14b9d5 80%, #14b9d5 80%, #14b9d5 89%, #1a73e8  89%, #1a73e8  100%);
+    background-size: 100% 2px;
 };

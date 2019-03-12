@@ -5,7 +5,7 @@
       :value="true"
       app
       color="white"
-      class="elevation-2"
+      class="elevation-2 google-rainbow--line"
       
     >
       <v-btn
@@ -52,8 +52,6 @@
         <v-icon>toc</v-icon>
       </v-btn>
 
-      
-
       <!-- <v-btn
         color="#518FF5"
         flat
@@ -68,7 +66,6 @@
     </v-bottom-nav>
   </v-card>
 </template>
-
 
 <script>
   export default {
