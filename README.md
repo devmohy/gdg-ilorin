@@ -25,7 +25,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team 
 
 
 ## Getting Started
-1. [Fork repository](https://github.com/Vrijraj/aura/fork) and clone it locally
+1. [Fork repository](https://github.com/ahmzyjazzy/gdg-lorin/fork) and clone it locally
 1. Install project dependencies: `npm install` 
 1. Find the [Meetup API Key](https://secure.meetup.com/meetup_api/key/) and paste it [here](/src/config/key.js), also replace the chapter URL from `Meetup.com/[gdg-chapter-url]`
 1. Compiles and hot-reloads for development: `npm run serve`
@@ -43,7 +43,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team 
 1. Type `firebase init`.
 1. Select the project by using the arrow keys.
 1. Then Select the `Firebase Hosting` by using Spacebar and arrow key.
-1. Click `No` for Single page web app.
+1. Click `Yes` for Single page web app.
 1. Type `dist`.
 1. Some by default file will be created successfully.
 1. Run locally
@@ -75,9 +75,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | Community Name | Web App Link | 
 | --- | --- | 
 | GDG Ilorin | [View Now](https://gdgilorin.com) |
-
-
-
 
 
 Project is published under the [MIT license](/LICENSE.md).  
