@@ -1,18 +1,18 @@
-# Aura - GDG[x]
+# GDG - Ilorin
 
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
 <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura.png">
 
 Standard Web App for GDG Communties. <br>
-[Demo](https://aura-client-master.firebaseapp.com/) <br>
+[Demo](https://gdg-ilorin-d9f0d.firebaseapp.com/) <br>
 Version: 1.0.2
 
 ## Overview
 
 Aura is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
-The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
+The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team experience of running meetups.
 
 ## Features
 | Feature | Description |
@@ -25,7 +25,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
 
 
 ## Getting Started
-1. [Fork repository](https://github.com/Vrijraj/aura/fork) and clone it locally
+1. [Fork repository](https://github.com/ahmzyjazzy/gdg-lorin/fork) and clone it locally
 1. Install project dependencies: `npm install` 
 1. Find the [Meetup API Key](https://secure.meetup.com/meetup_api/key/) and paste it [here](/src/config/key.js), also replace the chapter URL from `Meetup.com/[gdg-chapter-url]`
 1. Compiles and hot-reloads for development: `npm run serve`
@@ -43,14 +43,13 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
 1. Type `firebase init`.
 1. Select the project by using the arrow keys.
 1. Then Select the `Firebase Hosting` by using Spacebar and arrow key.
-1. Click `No` for Single page web app.
+1. Click `Yes` for Single page web app.
 1. Type `dist`.
 1. Some by default file will be created successfully.
 1. Run locally
    * `firebase serve` or `npm run serve` or `yarn serve` 
 1. Build and deploy
    * `firebase deploy` or `npm run deploy` or `yarn deploy`
-
 
 
 ### Run your tests
@@ -75,10 +74,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 | Community Name | Web App Link | 
 | --- | --- | 
-| GDG Jalandhar | [View Now](https://gdgjalandhar.com) |
-
-
-
+| GDG Ilorin | [View Now](https://gdgilorin.com) |
 
 
 Project is published under the [MIT license](/LICENSE.md).  

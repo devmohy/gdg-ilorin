@@ -4,7 +4,9 @@
     color="white"
     height="55px"
     scroll-off-screen
+    class="google-rainbow--line"
   >
+
     <v-toolbar-side-icon
       class="hidden-md-and-up"
       @click="toggleDrawer"
@@ -30,6 +32,7 @@
   
   </v-toolbar>
 </template>
+
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
