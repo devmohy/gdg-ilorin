@@ -48,9 +48,9 @@
         "designation":"Co-organizer",
         "hobby":"surfing the net, reading, travelling",
         "skillset":"Analysing, organizing, coding",        
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
+        "twitter":" https://twitter.com/Ajadiabeeola",
+        "linkedin":"https://www.linkedin.com/in/barakat-ajadi-88469614a",
+        "github":"https://github.com/Ajadi-Abiola",
         "profileImage":"ajadi.jpeg",
         "website":""
     },
@@ -66,6 +66,17 @@
         "website":""
     },
     {
+        "name":"Zainab Abdullahi",
+        "designation":"Co-organizer",
+        "hobby":"Researching, teaching, cooking and watching tv shows",
+        "skillset":"Coding, developing and network engineering", 
+        "twitter":"https://twitter.com/Mc_ZeeBee",       
+        "linkedin":"https://www.linkedin.com/in/zainab-abdullahi-947132165",
+        "github":"https://github.com/zainabbolanle",
+        "profileImage":"zainab.jpeg",
+        "website":""
+    },
+    {
         "name":"Areous Ahmad",
         "designation":"Assistant organizer",
         "hobby":"Coding, Design, Gaming",
@@ -73,7 +84,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"areous.jpeg",
         "website":""
     },
     {
@@ -86,18 +97,7 @@
         "github":"https://github.com/zaarab001",
         "profileImage":"manzuma.jpeg",
         "website":""
-    },
-    {
-        "name":"Zainab Abdullahi",
-        "designation":"Event organizer",
-        "hobby":"Researching, teaching, cooking and watching tv shows",
-        "skillset":"Coding, developing and network engineering", 
-        "twitter":"https://twitter.com/Mc_ZeeBee",       
-        "linkedin":"https://www.linkedin.com/in/zainab-abdullahi-947132165",
-        "github":"https://github.com/zainabbolanle",
-        "profileImage":"",
-        "website":""
-    },
+    },    
     {
         "name":"Cole-Eremoh Solomon",
         "designation":"Event organizer",
@@ -123,12 +123,12 @@
     {
         "name":"Jekayinoluwa Olabemiwo",
         "designation":"Event organizer",
-        "hobby":"",
-        "skillset":"",        
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
+        "hobby":"Reading, Poetry, Design",
+        "skillset":"Software Development, Organizing, CAD, Writing",        
+        "twitter":"https://twitter.com/JKaylight",
+        "linkedin":"https://www.linkedin.com/in/jekayinoluwa-olabemiwo-067531136/",
+        "github":"https://github.com/J-rayX",
+        "profileImage":"jk.jpeg",
         "website":""
     }
 
