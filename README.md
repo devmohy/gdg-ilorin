@@ -74,7 +74,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 | Community Name | Web App Link | 
 | --- | --- | 
-| GDG Ilorin | [View Now](https://gdgilorin.com) |
+| GDG Ilorin | [View Now](https://gdgilorin.dev) |
 
 
 Project is published under the [MIT license](/LICENSE.md).  
