@@ -10,9 +10,9 @@ Version: 1.0.2
 
 ## Overview
 
-Aura is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
+GDG-ILORIN is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
-The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team experience of running meetups.
+<!-- The template is created by [GDG Jalandhar](https://meetup.com/GDG-Ilorin/) team experience of running meetups. -->
 
 ## Features
 | Feature | Description |
